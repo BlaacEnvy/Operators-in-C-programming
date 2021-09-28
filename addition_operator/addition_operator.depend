@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632830860 source:c:\users\student8\desktop\c programming\addition_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632832568 source:c:\users\student8\desktop\c programming\addition_operator\multiplication_operator.c
+	<stdio.h>
+
